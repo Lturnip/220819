@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#_Code\\AbstractClass\\AbstractClass.csproj": {}
+    "D:\\C#_Code\\220819\\AbstractClass\\AbstractClass.csproj": {}
   },
   "projects": {
-    "D:\\C#_Code\\AbstractClass\\AbstractClass.csproj": {
+    "D:\\C#_Code\\220819\\AbstractClass\\AbstractClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#_Code\\AbstractClass\\AbstractClass.csproj",
+        "projectUniqueName": "D:\\C#_Code\\220819\\AbstractClass\\AbstractClass.csproj",
         "projectName": "AbstractClass",
-        "projectPath": "D:\\C#_Code\\AbstractClass\\AbstractClass.csproj",
+        "projectPath": "D:\\C#_Code\\220819\\AbstractClass\\AbstractClass.csproj",
         "packagesPath": "C:\\Users\\Maxwell\\.nuget\\packages\\",
-        "outputPath": "D:\\C#_Code\\AbstractClass\\obj\\",
+        "outputPath": "D:\\C#_Code\\220819\\AbstractClass\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Maxwell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
