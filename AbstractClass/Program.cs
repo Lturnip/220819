@@ -46,6 +46,8 @@ namespace AbstractClass
             Console.WriteLine(mc.MyInt);
             Console.WriteLine("Perimeter Length:{0}", mc.PerimeterLength());
             int a = 0;
+            int a1 = 0;
+
         }
     }
 }
